@@ -1,6 +1,8 @@
 # LinkToUjs
 
-TODO: Write a gem description
+link_to_function it's dead
+
+long life to link_to_ujs
 
 ## Installation
 
@@ -18,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+just replace your's link_to_function with link_to_ujs. that's it.
+
 
 ## Contributing
 
