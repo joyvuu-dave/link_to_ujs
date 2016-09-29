@@ -27,7 +27,7 @@ module LinkToUjs
 
         def set_ujs(ref, code)
           @ujs ||= {}
-          @ujs[ref] = Rails.production? ? Uglifier.compile(code) : code
+          @ujs[ref] = code
         end
 
         def ujs_content
